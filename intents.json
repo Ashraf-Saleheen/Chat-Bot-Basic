@@ -1,0 +1,23 @@
+{"intents":  [
+  {"tags": "greetings",
+  "patterns":  ["Assalamualaikum", "Hellow!", "Greetings!", "What's Up?", "How is it going?"],
+  "responses":  ["Hi There!", "What can I do for You Dear ?", "Hellow !"]},
+  {"tags": "goodbye",
+  "patterns": ["You have a nice day!", "Hope to see you again!", "Any time!"],
+  "responses":  ["You have a nice day ahead!", "Ciao", "Adios", "See you later !", "Take care !"]},
+  {"tags": "age",
+  "patterns": ["How old are you ?", "What is your age ?", "Age ?"],
+  "responses":  ["My Owner Ashraf is 23 years old.", "23 years", "23"]},
+  {"tags": "name",
+  "patterns": ["What is your name?", "What should I call you?", "Who are you ?", "What are you known as ?", "Can you tell me your name?"],
+  "responses":  ["You can Call me Mario", "Mario", "I am Mario", "I am a Robot"]},
+  {"tags": "shop",
+  "patterns": ["I would like to buy something.", "Do you have this ?", "What do you recommend ?"],
+  "responses":  ["We have courses on AI", "You can see Robotics, it's new", "AI and Robotics"]},
+  {"tags": "hours",
+  "patterns": ["When are you guys open ?", "What are your working hours ?", "What are your hours of operations ?"],
+  "responses":  ["We are always open for you.", "24/7", "Always !"]},
+  {"tags": "stocks",
+  "patterns": ["What stocks do I own ?", "How are my shares ?", "What are the companies there ?"],
+  "responses":  ["You own the following shares: ABBV, TSLA, GOOGLE, NVDA", "5000 Matured Shares and 3000 immatured shares"]}
+]}
